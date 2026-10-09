@@ -1,0 +1,10 @@
+{
+  "name": "Horologe Journal",
+  "description": "Chrono-nutrition tracker and AI optical lens calorie analyzer with horological skeuomorphic instruments.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
